@@ -1,9 +1,3 @@
-/* https://itnext.io/how-to-build-a-responsive-navbar-using-flexbox-and-javascript-eb0af24f19bf
-
-
-*/
-
-/* Screen reader only, visually hidden */
 .sr-only {
     position: absolute;
     width: 1px;
@@ -155,5 +149,3 @@ a.skip:hover {
         color: white;
     }
 }
-
-/* end media query for navbar */
