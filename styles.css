@@ -1,0 +1,29 @@
+body {
+    font-family: 'Merriweather', serif;
+    margin: 0;
+
+}
+
+img {
+    max-width: 100%;
+}
+
+
+legend {
+    font-family: monospace;
+}
+
+input:focus {
+    background-color: chartreuse;
+}
+
+textarea:focus {
+    background-color: chartreuse;
+}
+
+
+form {
+    background-color: rebeccapurple;
+    border-width: 4rem blue;
+
+}
